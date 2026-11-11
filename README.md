@@ -1,5 +1,7 @@
 # 🏥 Smart Patient Health Monitoring System
+## 🌐 Live Demo
 
+[Click Here to View Live Project](https://smart-patient-health-monitoring-system-3rqcxarwdhfyv2r8zgqguu.streamlit.app/)
 ## 📌 Project Overview
 The Smart Patient Health Monitoring System is a Python-based web application developed using Streamlit.
 
